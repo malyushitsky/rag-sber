@@ -3,3 +3,4 @@ chroma_storage/
 data/
 parser.log
 venv/
+*.csv
